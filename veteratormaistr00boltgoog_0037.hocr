@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veteratormaistr00boltgoog_0037.png"; bbox 0 0 2752 4170; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 1420 973 1881">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 1420 973 1881">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 1420 973 1881; baseline 0 -288"><span class='ocrx_word' id='word_1_1' title='bbox 520 1420 973 1881; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 520 1672 2065 2017">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 520 1661 2065 2017">
+     <span class='ocr_line' id='line_1_2' title="bbox 732 1672 2065 1833; baseline 0.012 -54.425"><span class='ocrx_word' id='word_1_2' title='bbox 732 1725 788 1781; x_wconf 70' lang='grc' dir='ltr'>,ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1672 1170 1833; x_wconf 63' lang='lat' dir='ltr'>{noua</span> <span class='ocrx_word' id='word_1_4' title='bbox 1194 1712 1333 1797; x_wconf 73' lang='lat' dir='ltr'>que</span> <span class='ocrx_word' id='word_1_5' title='bbox 1355 1673 1725 1793; x_wconf 58' lang='lat' dir='ltr'>veteram</span> <span class='ocrx_word' id='word_1_6' title='bbox 1748 1696 2065 1794; x_wconf 70' lang='grc' dir='ltr'>ῑῐεηυίῐ·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 520 1806 2057 1916; baseline 0.012 -33"><span class='ocrx_word' id='word_1_7' title='bbox 520 1809 1178 1893; x_wconf 33' lang='grc' dir='ltr'>νῦι-,κζ-π-ι-ῖὴ-ᾎέςῃιιαε</span> <span class='ocrx_word' id='word_1_8' title='bbox 1203 1806 1785 1916; x_wconf 63' lang='grc' dir='ltr'>Ρςτῐυειίιιιιεεοκ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1814 1816 2057 1910; x_wconf 67' lang='lat' dir='ltr'>peculi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 527 1900 2047 2017; baseline 0.015 -36"><span class='ocrx_word' id='word_1_10' title='bbox 527 1900 638 1983; x_wconf 73' lang='lat' dir='ltr'>ari</span> <span class='ocrx_word' id='word_1_11' title='bbox 662 1901 872 2000; x_wconf 67' lang='lat' dir='ltr'>ligna</span> <span class='ocrx_word' id='word_1_12' title='bbox 895 1919 971 1993; x_wconf 78' lang='grc' dir='ltr'>ιιι</span> <span class='ocrx_word' id='word_1_13' title='bbox 999 1909 1305 1997; x_wconf 74' lang='lat' dir='ltr'>romami</span> <span class='ocrx_word' id='word_1_14' title='bbox 1344 1915 1686 2000; x_wconf 74' lang='lat' dir='ltr'>traducta</span> <span class='ocrx_word' id='word_1_15' title='bbox 1719 1919 2047 2017; x_wconf 73' lang='lat' dir='ltr'><strong>eloquiii.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
